@@ -3,7 +3,7 @@
 <p>Neste repositório criamos um scroll website design em html5, css3 & javascript com <a href="https://www.youtube.com/watch?v=6iPYvYAZIDg">vídeo aula</a> em nosso <a href="https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1">Canal do Youtube</a>.</p>
 
 <a href="https://ifullstack-tv.github.io/website-header-design-html-css/">Demo</a>
-<a href="https://ifullstack-tv.github.io/website-header-design-html-css/"><img src="https://github.com/iFullStack-tv/parallax-scrolling-website/blob/main/demo.gif"></a>
+<a href="https://ifullstack-tv.github.io/website-header-design-html-css/"><img src="https://github.com/iFullStack-tv/parallax-scrolling-website/blob/main/demo.gif" width="100%"></a>
 
 <div align="center">
 <h3>Connect with us:</h3>
